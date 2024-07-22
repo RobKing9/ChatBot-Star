@@ -81,6 +81,12 @@
             <artifactId>json-lib</artifactId>
             <classifier>jdk15</classifier><!-- jdk版本 -->
         </dependency>
+
+        <dependency>
+            <groupId>com.rufeng</groupId>
+            <artifactId>chatbot-star-domain</artifactId>
+            <version>1.0-SNAPSHOT</version>
+        </dependency>
     </dependencies>
 
 </project>
