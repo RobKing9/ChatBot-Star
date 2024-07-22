@@ -65,7 +65,7 @@ public class ApiTest {
     @Test
     public void testChatGPT() throws IOException{
 
-        String openAiKey = "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";
+        String openAiKey = "";
 
         CloseableHttpClient httpClient = HttpClientBuilder.create().build();
 
